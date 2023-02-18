@@ -49,6 +49,8 @@ __Melhoria 1__, _melhoria 2_
 
 [https://www.google.com](https://www.google.com)
 
+Contribuidor principal: https://www.github.com/jorgeluismeirellesmomesso
+
 
 
 
